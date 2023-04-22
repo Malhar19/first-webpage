@@ -1,0 +1,15 @@
+
+
+table, th, td, tr{
+    border:1px solid black;
+    border-collapse: collapse;
+    font-size: 25px;
+
+}
+p{
+    font-size: 25px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
